@@ -1,0 +1,17 @@
+.header {
+    background-image: linear-gradient(to right, rgb(230, 55, 55), rgb(145, 62, 62)) ;
+}
+
+a {
+    font-style: italic;
+    color: white;
+}
+
+.nav-link {
+    border: 2px white solid;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
